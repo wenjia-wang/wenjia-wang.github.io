@@ -4,7 +4,6 @@ title: Research Interest
 permalink: /research/
 author_profile: true
 ---
-***
 Integrating multiple methods and processes, including (homogenous, heterogenous, and electro) catalysis and thermal/thermochemical pathways for the degradation and conversion of fossil resources (coal and oil), biomass (microalgae, lignin, and cellulose), and waste (PFAS, sludge, waste plastics, and human feces) into value-added chemicals and clean fuels.
 
 Developing new reactor systems (e.g., hydrothermal liquefaction, supercritical water gasification, and supercritical CO2 extraction) and new materials (especially non-noble-metal catalysts) for renewable energy and material production.
