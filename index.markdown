@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
+title: Bio
 author_profile: true
 header:
     image: /assets/images/header.jpg
