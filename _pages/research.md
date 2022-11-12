@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: single
 title: Research
 permalink: /research/
 ---
-These are my researched!
+These are my researches!
