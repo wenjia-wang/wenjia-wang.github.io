@@ -4,8 +4,7 @@
 
 layout: single
 author_profile: true
-image: /assets/images/header.jpg
+header.image: /assets/images/header.jpg
 ---
 
-![header image]({{ page.image | relative_url }})
 
