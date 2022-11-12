@@ -4,5 +4,5 @@
 
 layout: single
 author_profile: true
-image: assets/images/header.jpg
+image: /assets/images/header.jpg
 ---
