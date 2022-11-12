@@ -4,7 +4,8 @@
 
 layout: single
 author_profile: true
-header.image: /assets/images/header.jpg
+header:
+    image: /assets/images/header.jpg
 ---
 
 
